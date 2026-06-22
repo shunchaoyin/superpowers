@@ -5,6 +5,7 @@
 ## 项目总览
 
 - [项目架构概览](00-ARCHITECTURE_OVERVIEW.zh.md)
+- [Hooks 工作总结：会话启动自举与跨平台注入](16-hooks-bootstrap-summary.md)
 
 ## Skill 笔记
 
